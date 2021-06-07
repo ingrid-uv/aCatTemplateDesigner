@@ -1,0 +1,1102 @@
+{
+  "fields": {
+    "4": {
+      "label": "Personen",
+      "blocks": {
+        "4": {
+          "label": "Allgemeine Informationen",
+          "fields": {
+            "66": {
+              "label": "Anrede "
+            },
+            "67": {
+              "label": "Vorname"
+            },
+            "68": {
+              "label": "Personen Nr."
+            },
+            "69": {
+              "label": "Telefon"
+            },
+            "70": {
+              "label": "Nachname"
+            },
+            "71": {
+              "label": "Handy"
+            },
+            "80": {
+              "label": "E-Mail"
+            },
+            "87": {
+              "label": "zust&auml;ndig"
+            },
+            "90": {
+              "label": "erstellt"
+            },
+            "91": {
+              "label": "ge&auml;ndert"
+            },
+            "92": {
+              "label": "Zuletzt ge&auml;ndert von"
+            },
+            "1702": {
+              "label": "Webseite"
+            },
+            "1703": {
+              "label": "Geburtsdatum"
+            },
+            "1704": {
+              "label": "Geburtsort"
+            },
+            "1705": {
+              "label": "Geburtsland"
+            },
+            "1706": {
+              "label": "Staatsangeh&ouml;rigkeit"
+            },
+            "1707": {
+              "label": "Akademischer Titel"
+            },
+            "1796": {
+              "label": "Typ"
+            },
+            "1828": {
+              "label": "Organisation"
+            },
+            "1875": {
+              "label": "Geburtsname"
+            },
+            "1895": {
+              "label": "ZfN-Account"
+            },
+            "1896": {
+              "label": "ZfN-Account g&uuml;ltig bis"
+            },
+            "1925": {
+              "label": "berufliche Mail"
+            }
+          }
+        },
+        "5": {
+          "label": "weitere Informationen",
+          "fields": {
+            "85": {
+              "label": "nicht anrufen"
+            },
+            "86": {
+              "label": "keine Mails versenden"
+            }
+          }
+        },
+        "73": {
+          "label": "Photo"
+        },
+        "249": {
+          "label": "Hochschulabschluss",
+          "fields": {
+            "1681": {
+              "label": "Abschluss"
+            },
+            "1682": {
+              "label": "Abschluss erworben am"
+            },
+            "1683": {
+              "label": "(Fach-)Hochschule"
+            },
+            "1684": {
+              "label": "Bewertung ZAB liegt vor"
+            },
+            "1685": {
+              "label": "Anabin-Eintrag vorhanden"
+            },
+            "1686": {
+              "label": "&Uuml;bersetzung liegt vor"
+            },
+            "1687": {
+              "label": "Dokument"
+            },
+            "1885": {
+              "label": "Nachweise liegen vor"
+            },
+            "1889": {
+              "label": "Bemerkungen"
+            }
+          }
+        },
+        "250": {
+          "label": "Berufsbildung",
+          "fields": {
+            "1688": {
+              "label": "Berufsbezeichnung"
+            },
+            "1689": {
+              "label": "Erworben am"
+            },
+            "1690": {
+              "label": "Ausgestellt durch"
+            },
+            "1691": {
+              "label": "Ausgestellt wo"
+            },
+            "1692": {
+              "label": "Dokument"
+            },
+            "1886": {
+              "label": "Nachweise liegen vor"
+            },
+            "1890": {
+              "label": "Bemerkungen"
+            }
+          }
+        },
+        "251": {
+          "label": "Sprache",
+          "fields": {
+            "1693": {
+              "label": "Sprache"
+            },
+            "1694": {
+              "label": "Level"
+            },
+            "1695": {
+              "label": "Ausgestellt am"
+            },
+            "1696": {
+              "label": "Zertifikat ausgestellt durch"
+            },
+            "1697": {
+              "label": "Dokument"
+            },
+            "1888": {
+              "label": "Nachweise liegen vor"
+            },
+            "1893": {
+              "label": "Bemerkungen"
+            }
+          }
+        },
+        "252": {
+          "label": "Adresse",
+          "fields": {
+            "1698": {
+              "label": "Strasse"
+            },
+            "1699": {
+              "label": "Plz"
+            },
+            "1700": {
+              "label": "Ort"
+            },
+            "1701": {
+              "label": "Land"
+            }
+          }
+        },
+        "268": {
+          "label": "Berufserfahrungen",
+          "fields": {
+            "1870": {
+              "label": "von"
+            },
+            "1871": {
+              "label": "bis"
+            },
+            "1872": {
+              "label": "Position"
+            },
+            "1873": {
+              "label": "Aufgaben"
+            },
+            "1874": {
+              "label": "Dokumente"
+            },
+            "1887": {
+              "label": "Nachweise liegen vor"
+            },
+            "1891": {
+              "label": "Bemerkungen"
+            }
+          }
+        },
+        "283": {
+          "label": "Weiterbildungen",
+          "fields": {
+            "1876": {
+              "label": "Titel"
+            },
+            "1877": {
+              "label": "Umfang"
+            },
+            "1878": {
+              "label": "Startdatum"
+            },
+            "1879": {
+              "label": "Enddatum"
+            },
+            "1880": {
+              "label": "Anerkannt"
+            },
+            "1881": {
+              "label": "Dokument"
+            },
+            "1882": {
+              "label": "Institut"
+            },
+            "1883": {
+              "label": "Original hat vorgelegen"
+            },
+            "1884": {
+              "label": "Beschreibung"
+            },
+            "1892": {
+              "label": "Bemerkungen"
+            }
+          }
+        },
+        "284": {
+          "label": "Gutscheine",
+          "fields": {
+            "1898": {
+              "label": "Gutschein"
+            },
+            "1899": {
+              "label": "Gutscheinnummer"
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "label": "Organisationen",
+      "blocks": {
+        "9": {
+          "label": "Organisationsdetails",
+          "fields": {
+            "1": {
+              "label": "Organisationsname"
+            },
+            "2": {
+              "label": "Organisations Nr."
+            },
+            "3": {
+              "label": "Telefon"
+            },
+            "4": {
+              "label": "Webseite"
+            },
+            "5": {
+              "label": "Fax"
+            },
+            "9": {
+              "label": "E-Mail"
+            },
+            "16": {
+              "label": "Typ"
+            },
+            "18": {
+              "label": "keine Mails versenden"
+            },
+            "23": {
+              "label": "Zuletzt ge&auml;ndert von"
+            },
+            "1852": {
+              "label": "Geh&ouml;rt zu"
+            },
+            "1853": {
+              "label": "Zusatz"
+            }
+          }
+        },
+        "263": {
+          "label": "Adresse",
+          "fields": {
+            "1753": {
+              "label": "Strasse"
+            },
+            "1754": {
+              "label": "Plz"
+            },
+            "1755": {
+              "label": "Ort"
+            },
+            "1756": {
+              "label": "Land"
+            }
+          }
+        },
+        "281": {
+          "label": "Systeminformationen",
+          "fields": {
+            "20": {
+              "label": "zust&auml;ndig"
+            },
+            "21": {
+              "label": "erstellt"
+            },
+            "22": {
+              "label": "ge&auml;ndert"
+            }
+          }
+        },
+        "285": {
+          "label": "Gutscheine",
+          "fields": {
+            "1900": {
+              "label": "Name"
+            },
+            "1901": {
+              "label": "relativer Betrag"
+            },
+            "1902": {
+              "label": "absoluter Betrag"
+            },
+            "1903": {
+              "label": "g&uuml;ltig von"
+            },
+            "1904": {
+              "label": "g&uuml;ltig bis"
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "label": "Dokumente",
+      "blocks": {
+        "17": {
+          "label": "Dokumentinformation",
+          "fields": {
+            "204": {
+              "label": "Titel"
+            },
+            "205": {
+              "label": "erstellt"
+            },
+            "206": {
+              "label": "ge&auml;ndert"
+            },
+            "208": {
+              "label": "zust&auml;ndig"
+            },
+            "217": {
+              "label": "Dokumentnr."
+            },
+            "218": {
+              "label": "zuletzt ge&auml;ndert durch"
+            }
+          }
+        },
+        "18": {
+          "label": "Dateidetails",
+          "fields": {
+            "207": {
+              "label": "Dateiname"
+            },
+            "210": {
+              "label": "Dateityp"
+            },
+            "211": {
+              "label": "Dateigr&ouml;&szlig;e"
+            },
+            "212": {
+              "label": "Download Typ"
+            },
+            "214": {
+              "label": "Aktiv"
+            },
+            "215": {
+              "label": "Download-Anzahl"
+            }
+          }
+        }
+      }
+    },
+    "111": {
+      "label": "Kampagne",
+      "blocks": {
+        "244": {
+          "label": "Allgemeine Informationen",
+          "fields": {
+            "1649": {
+              "label": "erstellt"
+            },
+            "1650": {
+              "label": "ge&auml;ndert"
+            },
+            "1651": {
+              "label": "zust&auml;ndig"
+            },
+            "1652": {
+              "label": "Zuletzt ge&auml;ndert von"
+            },
+            "1653": {
+              "label": "Kampagnenname"
+            },
+            "1654": {
+              "label": "Kampagnennr."
+            },
+            "1655": {
+              "label": "Kampagnenstatus"
+            },
+            "1656": {
+              "label": "Abschluss"
+            },
+            "1657": {
+              "label": "Kampagnentyp"
+            }
+          }
+        }
+      }
+    },
+    "113": {
+      "label": "Programm",
+      "blocks": {
+        "246": {
+          "label": "Allgemeine Informationen",
+          "fields": {
+            "1662": {
+              "label": "erstellt"
+            },
+            "1663": {
+              "label": "ge&auml;ndert"
+            },
+            "1664": {
+              "label": "zust&auml;ndig"
+            },
+            "1665": {
+              "label": "Zuletzt ge&auml;ndert von"
+            },
+            "1666": {
+              "label": "Bezeichnung"
+            },
+            "1667": {
+              "label": "Typ"
+            },
+            "1799": {
+              "label": "Finanzierung"
+            },
+            "1800": {
+              "label": "ECTS"
+            }
+          }
+        }
+      }
+    },
+    "114": {
+      "label": "Programmdurchlauf",
+      "blocks": {
+        "247": {
+          "label": "Allgemeine Informationen",
+          "fields": {
+            "1673": {
+              "label": "Programm"
+            },
+            "1674": {
+              "label": "Bezeichnung"
+            },
+            "1675": {
+              "label": "Typ"
+            },
+            "1676": {
+              "label": "PL-Nummer"
+            },
+            "1677": {
+              "label": "Ma&szlig;nahme-Nr."
+            },
+            "1678": {
+              "label": "Fond-Nr."
+            },
+            "1679": {
+              "label": "Start"
+            },
+            "1680": {
+              "label": "Ende"
+            },
+            "1736": {
+              "label": "Preis"
+            },
+            "1856": {
+              "label": "Ende Zahlungszeitraum"
+            },
+            "1894": {
+              "label": "Kurztitel"
+            },
+            "1897": {
+              "label": "Fachbereich"
+            }
+          }
+        },
+        "248": {
+          "label": "Systeminformationen",
+          "fields": {
+            "1668": {
+              "label": "erstellt"
+            },
+            "1669": {
+              "label": "ge&auml;ndert"
+            },
+            "1670": {
+              "label": "DV"
+            },
+            "1671": {
+              "label": "Zuletzt ge&auml;ndert von"
+            },
+            "1716": {
+              "label": "PV"
+            }
+          }
+        },
+        "286": {
+          "label": "Gutscheine",
+          "fields": {
+            "1905": {
+              "label": "Name"
+            },
+            "1906": {
+              "label": "g&uuml;ltig von"
+            },
+            "1907": {
+              "label": "g&uuml;ltig bis"
+            }
+          }
+        }
+      }
+    },
+    "115": {
+      "label": "Interesse",
+      "blocks": {
+        "253": {
+          "label": "Allgemeine Informationen",
+          "fields": {
+            "1712": {
+              "label": "Programmdurchlauf"
+            },
+            "1713": {
+              "label": "Kampagne"
+            },
+            "1714": {
+              "label": "Status"
+            },
+            "1715": {
+              "label": "Quelle"
+            },
+            "1717": {
+              "label": "Person"
+            }
+          }
+        },
+        "254": {
+          "label": "Systeminformationen",
+          "fields": {
+            "1708": {
+              "label": "erstellt"
+            },
+            "1709": {
+              "label": "ge&auml;ndert"
+            },
+            "1711": {
+              "label": "Zuletzt ge&auml;ndert von"
+            }
+          }
+        }
+      }
+    },
+    "116": {
+      "label": "Bewerbung",
+      "blocks": {
+        "255": {
+          "label": "Allgemeine Informationen",
+          "fields": {
+            "1722": {
+              "label": "Status"
+            },
+            "1723": {
+              "label": "Programmdurchlauf"
+            },
+            "1724": {
+              "label": "Interesse"
+            },
+            "1726": {
+              "label": "Person"
+            },
+            "1727": {
+              "label": "Bemerkung"
+            },
+            "1798": {
+              "label": "Bildungsgutschein"
+            },
+            "1801": {
+              "label": "Zugelassen am"
+            },
+            "1802": {
+              "label": "Dokumente"
+            }
+          }
+        },
+        "256": {
+          "label": "Systeminformationen",
+          "fields": {
+            "1718": {
+              "label": "erstellt"
+            },
+            "1719": {
+              "label": "ge&auml;ndert"
+            },
+            "1720": {
+              "label": "zust&auml;ndig"
+            },
+            "1721": {
+              "label": "Zuletzt ge&auml;ndert von"
+            }
+          }
+        }
+      }
+    },
+    "117": {
+      "label": "Teilnahme",
+      "blocks": {
+        "257": {
+          "label": "Allgemeine Informationen",
+          "fields": {
+            "1732": {
+              "label": "Programmdurchlauf"
+            },
+            "1733": {
+              "label": "Person"
+            },
+            "1734": {
+              "label": "Bewerbung"
+            },
+            "1735": {
+              "label": "Status"
+            }
+          }
+        },
+        "258": {
+          "label": "Systeminformationen",
+          "fields": {
+            "1728": {
+              "label": "erstellt"
+            },
+            "1729": {
+              "label": "ge&auml;ndert"
+            },
+            "1730": {
+              "label": "zust&auml;ndig"
+            },
+            "1731": {
+              "label": "Zuletzt ge&auml;ndert von"
+            }
+          }
+        }
+      }
+    },
+    "118": {
+      "label": "Rechnung",
+      "blocks": {
+        "259": {
+          "label": "Allgemeine Informationen",
+          "fields": {
+            "1741": {
+              "label": "Rechnungsnummer"
+            },
+            "1742": {
+              "label": "Rechnungsdatum"
+            },
+            "1780": {
+              "label": "gebucht"
+            },
+            "1868": {
+              "label": "Splittrechnung"
+            },
+            "1869": {
+              "label": "Geh&ouml;rt zur Splittrechnung"
+            },
+            "1920": {
+              "label": "Gutschein"
+            },
+            "1922": {
+              "label": "Storno am"
+            }
+          }
+        },
+        "260": {
+          "label": "Systeminformationen",
+          "fields": {
+            "1737": {
+              "label": "erstellt"
+            },
+            "1738": {
+              "label": "ge&auml;ndert"
+            },
+            "1739": {
+              "label": "zust&auml;ndig"
+            },
+            "1740": {
+              "label": "Zuletzt ge&auml;ndert von"
+            }
+          }
+        },
+        "261": {
+          "label": "Rechnungsempf&auml;nger",
+          "fields": {
+            "1743": {
+              "label": "Person"
+            },
+            "1744": {
+              "label": "Anrede "
+            },
+            "1745": {
+              "label": "Vorname"
+            },
+            "1746": {
+              "label": "Personnummer"
+            },
+            "1747": {
+              "label": "Nachname"
+            },
+            "1748": {
+              "label": "Strasse"
+            },
+            "1749": {
+              "label": "Plz"
+            },
+            "1750": {
+              "label": "Ort"
+            },
+            "1751": {
+              "label": "Land"
+            },
+            "1752": {
+              "label": "Akademischer Titel"
+            },
+            "1757": {
+              "label": "Organisation"
+            }
+          }
+        },
+        "262": {
+          "label": "abweichender Rechnungsempf&auml;nger",
+          "fields": {
+            "1760": {
+              "label": "Strasse"
+            },
+            "1761": {
+              "label": "Plz"
+            },
+            "1762": {
+              "label": "Ort"
+            },
+            "1763": {
+              "label": "Land"
+            },
+            "1858": {
+              "label": "Organisation"
+            },
+            "1859": {
+              "label": "Person"
+            },
+            "1860": {
+              "label": "Anrede"
+            },
+            "1861": {
+              "label": "Akademischer Titel"
+            },
+            "1862": {
+              "label": "Vorname"
+            },
+            "1863": {
+              "label": "Nachname"
+            }
+          }
+        },
+        "264": {
+          "label": "Programmdurchlauf",
+          "fields": {
+            "1764": {
+              "label": "Programm"
+            },
+            "1765": {
+              "label": "Bezeichnung"
+            },
+            "1767": {
+              "label": "Ma&szlig;nahme-Nr."
+            },
+            "1768": {
+              "label": "Fond-Nr."
+            },
+            "1769": {
+              "label": "Start"
+            },
+            "1770": {
+              "label": "Ende"
+            },
+            "1771": {
+              "label": "Preis"
+            },
+            "1857": {
+              "label": "Ende Zahlungszeitraum"
+            },
+            "1921": {
+              "label": "Bemerkungen"
+            },
+            "1926": {
+              "label": "Kurztext"
+            }
+          }
+        },
+        "265": {
+          "label": "Rabatte",
+          "fields": {
+            "1774": {
+              "label": "Name"
+            },
+            "1775": {
+              "label": "absoluter Rabatt"
+            },
+            "1776": {
+              "label": "Rechnungsbetrag"
+            },
+            "1777": {
+              "label": "prozentualer Rabatt"
+            },
+            "1778": {
+              "label": "Rabattbetrag"
+            },
+            "1779": {
+              "label": "Rabatte"
+            },
+            "1794": {
+              "label": "Restbetrag"
+            },
+            "1795": {
+              "label": "Regel"
+            }
+          }
+        },
+        "266": {
+          "label": "Zahlungsplan",
+          "fields": {
+            "1786": {
+              "label": "F&auml;llig am"
+            },
+            "1787": {
+              "label": "f&auml;lliger Betrag"
+            },
+            "1790": {
+              "label": "Saldo"
+            },
+            "1793": {
+              "label": "Mahnung"
+            }
+          }
+        },
+        "267": {
+          "label": "Zahlungsmodell",
+          "fields": {
+            "1782": {
+              "label": "Name"
+            },
+            "1783": {
+              "label": "Rythmus"
+            },
+            "1784": {
+              "label": "absoluter Aufschlag"
+            },
+            "1785": {
+              "label": "relativer Aufschlag"
+            }
+          }
+        },
+        "282": {
+          "label": "Zahlungseing&auml;nge",
+          "fields": {
+            "1864": {
+              "label": "Zahlungseingang"
+            },
+            "1865": {
+              "label": "SAP Belegnummer"
+            },
+            "1866": {
+              "label": "Zahlbetrag"
+            },
+            "1867": {
+              "label": "Bemerkungen"
+            },
+            "1924": {
+              "label": "Storniert"
+            }
+          }
+        },
+        "287": {
+          "label": "Gutscheine",
+          "fields": {
+            "1908": {
+              "label": "GutscheinNummer"
+            },
+            "1909": {
+              "label": "Name"
+            },
+            "1910": {
+              "label": "Nummer"
+            },
+            "1911": {
+              "label": "g&uuml;ltig von"
+            },
+            "1912": {
+              "label": "g&uuml;ltig bis"
+            },
+            "1913": {
+              "label": "relativer Wert"
+            },
+            "1914": {
+              "label": "Gutscheinsbetrag"
+            },
+            "1915": {
+              "label": "Rechnungsbetrag"
+            },
+            "1916": {
+              "label": "verbleibende Rechnungsbetrag"
+            },
+            "1919": {
+              "label": "Rechnung"
+            }
+          }
+        },
+        "288": {
+          "label": "Rechnungssummen",
+          "fields": {
+            "1772": {
+              "label": "Rechnungsbetrag"
+            },
+            "1773": {
+              "label": "offener Betrag"
+            },
+            "1781": {
+              "label": "Rabatte"
+            },
+            "1917": {
+              "label": "Gutscheine"
+            },
+            "1918": {
+              "label": "Aufschl&auml;ge"
+            },
+            "1923": {
+              "label": "Splitbetrag"
+            }
+          }
+        }
+      }
+    },
+    "120": {
+      "label": "Modul",
+      "blocks": {
+        "275": {
+          "label": "Allgemeine Informationen",
+          "fields": {
+            "1833": {
+              "label": "Kennzeichen"
+            },
+            "1834": {
+              "label": "Titel"
+            },
+            "1835": {
+              "label": "Titel (englisch)"
+            },
+            "1836": {
+              "label": "Preis"
+            },
+            "1837": {
+              "label": "LIFE-Themengebiet"
+            },
+            "1838": {
+              "label": "Niveau"
+            },
+            "1839": {
+              "label": "Unterrichtssprache"
+            },
+            "1855": {
+              "label": "Modulverantwortlich"
+            }
+          }
+        },
+        "276": {
+          "label": "Systeminformationen",
+          "fields": {
+            "1829": {
+              "label": "erstellt"
+            },
+            "1830": {
+              "label": "ge&auml;ndert"
+            },
+            "1831": {
+              "label": "zust&auml;ndig"
+            },
+            "1832": {
+              "label": "Zuletzt ge&auml;ndert von"
+            }
+          }
+        },
+        "277": {
+          "label": "Beschreibung",
+          "fields": {
+            "1840": {
+              "label": "Kurzbeschreibung"
+            },
+            "1841": {
+              "label": "Langbeschreibung"
+            },
+            "1842": {
+              "label": "Inhalt"
+            },
+            "1843": {
+              "label": "Lernergebnisse"
+            }
+          }
+        },
+        "278": {
+          "label": "Veranstaltung",
+          "fields": {
+            "1844": {
+              "label": "Veranstaltungsform"
+            },
+            "1845": {
+              "label": "Dauer"
+            }
+          }
+        },
+        "279": {
+          "label": "Zulassung &amp; Pr&uuml;fung",
+          "fields": {
+            "1846": {
+              "label": "Zielgruppe"
+            },
+            "1847": {
+              "label": "Zugangsvoraussetzungen"
+            },
+            "1854": {
+              "label": "Pr&uuml;fung"
+            }
+          }
+        },
+        "280": {
+          "label": "Workload",
+          "fields": {
+            "1848": {
+              "label": "ECTS"
+            },
+            "1849": {
+              "label": "Pr&auml;senzstunden"
+            },
+            "1850": {
+              "label": "angeleitetes Selbststudium"
+            },
+            "1851": {
+              "label": "individuelles Selbststudium"
+            }
+          }
+        }
+      }
+    }
+  }
+}
